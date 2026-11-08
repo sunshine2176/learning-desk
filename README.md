@@ -75,7 +75,14 @@ cd web                   # ← 必须在 web/ 里，否则传的是项目根目�
 vercel deploy --prod --yes
 ```
 
-得到一个 `*.vercel.app` 域名，孩子设备直接用。想绑自己的域名：`vercel alias set <部署URL> 你的域名`（注意：`--prod` 发布新部署后 alias **不会自动跟过去**，要重跑一次 `alias set`）。改了任何 js 要把 `web/sw.js` 里的 `VERSION` 加一，否则设备吃旧缓存。
+得到一个 `*.vercel.app` 域名，孩子设备直接用。想绑自己的域名，**别只 `alias set`**——它只绑当次部署，下次 `--prod` 不跟随（CLI 会警告 "assigned to this deployment only"）。一次做对：
+
+```bash
+vercel alias set <这次部署URL> 你的域名        # 先让域名能打开
+vercel domains add 你的域名 <项目名>           # 关键：域名进项目，以后每次生产部署自动跟上
+```
+
+改了任何 js 要把 `web/sw.js` 里的 `VERSION` 加一，否则设备吃旧缓存。
 
 任何静态托管（Netlify / Cloudflare Pages / nginx）都行——`web/` 目录就是全部产物。
 
