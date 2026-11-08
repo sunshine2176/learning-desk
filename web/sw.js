@@ -1,5 +1,5 @@
 /* sw.js — 离线缓存。改了页面内容想立刻生效，把 VERSION 加一即可。 */
-const VERSION = 'v14';
+const VERSION = 'v15';
 const CACHE = 'desk-' + VERSION;
 const ASSETS = [
   './',

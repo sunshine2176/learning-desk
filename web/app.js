@@ -898,7 +898,7 @@ function renderEnglish() {
 }
 
 function engSetup() {
-  setTop('英语跟读', false);
+  setTop('英语跟读', true);
   const packs = (window.ENGLISH && ENGLISH.packs) || [];
   const seen = engPackSeen();
   // 默认选最久没练的包（从没练过的排最前）
@@ -1012,7 +1012,7 @@ function finishEng() {
 
 function engResult() {
   const e = S.eng;
-  setTop('英语跟读', false);
+  setTop('英语跟读', true);
   main.innerHTML = `
   <div class="page" style="max-width:520px;margin:0 auto">
     <div class="card result-hero">
