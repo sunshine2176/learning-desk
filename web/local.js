@@ -658,6 +658,25 @@ const LD = (function () {
   // 按专项挑错法，保证干扰项「像真的」
   function autoWrong(t3, mode) {
     const m = mutations(t3);
+    if (mode === 'medial') {
+      // 介音专项：放「去掉介音 i/u」的错法——边 biān 的干扰项是 bān，
+      // 这正是孩子嘴里真实的错法。其余位置补声调变化。
+      const syls = String(t3).split(' ');
+      const out = [];
+      const push = s => { if (s && out.length < 3 && out.indexOf(s) < 0) out.push(s); };
+      syls.forEach((s, i) => {
+        const p = splitSyl(s);
+        if (!p || p.init === 'j' || p.init === 'q' || p.init === 'x') return;  // qan 不是拼音
+        const nf = p.final
+          .replace('iang', 'ang').replace('uang', 'ang')   // 先长后短，uan/ian 才不会被误替换
+          .replace('uan', 'an').replace('ian', 'an');
+        if (nf === p.final) return;
+        const a = syls.slice(); a[i] = p.init + nf + p.tone;
+        push(a.join(' '));
+      });
+      m.tone.forEach(push);
+      return out;
+    }
     if (mode === 'nasal' || mode === 'flat' || mode === 'light') {
       const first = mode === 'nasal' ? m.final
         : mode === 'flat' ? m.init

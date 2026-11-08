@@ -678,6 +678,7 @@ const LEVEL_NAME = { 1: '简单', 2: '适中', 3: '挑战' };
 
 const PY_CATS = [
   ['all', '全部', '这学期课本里的词，随机'],
+  ['medial', '介音', '边 biān 别读成班 bān（ian/uan 漏了介音）'],
   ['sandhi', '变调', '「一、不」变调，两个三声相连'],
   ['poly', '多音字', '同一个字，两种读法'],
   ['nasal', '前后鼻音', 'an/ang · en/eng · in/ing'],

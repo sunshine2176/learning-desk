@@ -83,6 +83,7 @@
    "w": "那边",
    "t3": "na4 bian1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u1",
@@ -115,6 +116,7 @@
    "w": "天空",
    "t3": "tian1 kong1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u1",
@@ -141,6 +143,7 @@
    "w": "冬天",
    "t3": "dong1 tian1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u1",
@@ -192,6 +195,7 @@
    "w": "田地",
    "t3": "tian2 di4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u1",
@@ -343,6 +347,7 @@
    "w": "花园",
    "t3": "hua1 yuan2",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u2",
@@ -368,6 +373,7 @@
    "w": "欢笑",
    "t3": "huan1 xiao4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u2",
@@ -516,6 +522,7 @@
    "w": "月光",
    "t3": "yue4 guang1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u2",
@@ -561,6 +568,7 @@
    "t3": "tian1 shang4",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u3",
@@ -689,6 +697,7 @@
    "w": "天气",
    "t3": "tian1 qi4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u3",
@@ -698,6 +707,7 @@
    "w": "欢快",
    "t3": "huan1 kuai4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u3",
@@ -830,6 +840,7 @@
    "w": "北边",
    "t3": "bei3 bian1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u3",
@@ -850,6 +861,7 @@
    "t3": "zhuan4 dong4",
    "cats": [
     "flat",
+    "medial",
     "nasal",
     "poly"
    ],
@@ -975,6 +987,7 @@
    "w": "灯光",
    "t3": "deng1 guang1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u4",
@@ -1010,6 +1023,7 @@
    "w": "风光",
    "t3": "feng1 guang1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u4",
@@ -1072,6 +1086,7 @@
    "t3": "wu3 guang1 shi2 se4",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u4",
@@ -1183,6 +1198,7 @@
    "t3": "zuo4 jing3 guan1 tian1",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u5",
@@ -1265,6 +1281,7 @@
    "w": "前面",
    "t3": "qian2 mian4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u5",
@@ -1274,6 +1291,7 @@
    "w": "面对面",
    "t3": "mian4 dui4 mian4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u5",
@@ -1329,6 +1347,7 @@
    "w": "明天",
    "t3": "ming2 tian1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u5",
@@ -1375,6 +1394,7 @@
    "w": "天亮",
    "t3": "tian1 liang4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u5",
@@ -1475,6 +1495,7 @@
    "w": "年代",
    "t3": "nian2 dai4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1493,6 +1514,7 @@
    "w": "明亮",
    "t3": "ming2 liang4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1626,6 +1648,7 @@
    "w": "白天",
    "t3": "bai2 tian1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1692,6 +1715,7 @@
    "t3": "si4 mian4 ba1 fang1",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1719,6 +1743,7 @@
    "w": "欢乐",
    "t3": "huan1 le4",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1744,6 +1769,7 @@
    "w": "年轻",
    "t3": "nian2 qing1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1754,6 +1780,7 @@
    "t3": "gong4 chan3 dang3 yuan2",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u6",
@@ -1821,6 +1848,7 @@
    "t3": "chuan2 zhi1",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u7",
@@ -2008,6 +2036,7 @@
    "w": "一边",
    "t3": "yi4 bian1",
    "cats": [
+    "medial",
     "nasal",
     "sandhi"
    ],
@@ -2026,6 +2055,7 @@
    "w": "连忙",
    "t3": "lian2 mang2",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u7",
@@ -2083,6 +2113,7 @@
    "t3": "shen1 bian1",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u8",
@@ -2162,6 +2193,7 @@
    "t3": "shang4 mian4",
    "cats": [
     "flat",
+    "medial",
     "nasal"
    ],
    "u": "u8",
@@ -2312,6 +2344,7 @@
    "w": "田野",
    "t3": "tian2 ye3",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u8",
@@ -2328,6 +2361,7 @@
    "w": "远方",
    "t3": "yuan3 fang1",
    "cats": [
+    "medial",
     "nasal"
    ],
    "u": "u8",

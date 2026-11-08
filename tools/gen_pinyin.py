@@ -125,6 +125,13 @@ def auto_cats(word, t3):
         if b.endswith('ng') or b.endswith('n'):
             cats.add('nasal')
             break
+    # 介音混淆：ian/uan/iang/uang（边 biān 念成班 bān 这类）
+    # 注意 j/q/x 后面没有真正的 an 韵（qan 不是拼音），这些字的干扰项造不出来，不进本专项
+    for s in syls:
+        b, _ = split_syl(s)
+        if re.search(r'(iang|uang|uan|ian)$', b) and initial_of(b) not in ('j', 'q', 'x'):
+            cats.add('medial')
+            break
     if '儿' in word and len(word) >= 2:
         cats.add('erhua')
     return cats
@@ -291,7 +298,7 @@ def build():
     with open(DST_JS, 'w', encoding='utf-8') as f:
         f.write('/* pinyin.js — 拼音题库。由 tools/gen_pinyin.py 从 data/pinyin.json 生成。\n')
         f.write(' * t3 = 声调编号记音（yi2 ge4），运行时转成 yí gè 显示。\n')
-        f.write(' * cats: sandhi 变调 / light 轻声 / poly 多音字 / nasal 前后鼻音 / flat 平翘舌 / erhua 儿化\n')
+        f.write(' * cats: sandhi 变调 / light 轻声 / poly 多音字 / nasal 前后鼻音 / flat 平翘舌 / erhua 儿化 / medial 介音\n')
         f.write(' * sy = 变调字位置，rt = 读法声调，d = 手工干扰项，ro = 只出读法题\n')
         f.write(' */\n')
         f.write('window.PINYIN = ' + body + ';\n')
