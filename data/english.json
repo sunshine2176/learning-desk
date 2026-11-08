@@ -1,0 +1,71 @@
+{
+  "voice": "en-US-AnaNeural",
+  "rate": "-4%",
+  "note": "二年级英语跟读句包：一个句型一个包，整句输出优先于背单词。句子按'听→跟读→对比→自评'设计。",
+  "packs": [
+    { "id": "like", "title": "我喜欢…", "frame": "I like ___", "s": [
+      { "text": "I like apples.", "zh": "我喜欢苹果。" },
+      { "text": "I like pandas.", "zh": "我喜欢熊猫。" },
+      { "text": "I like blue.", "zh": "我喜欢蓝色。" },
+      { "text": "I like ice cream.", "zh": "我喜欢冰淇淋。" },
+      { "text": "I like playing football.", "zh": "我喜欢踢足球。" },
+      { "text": "I like my school.", "zh": "我喜欢我的学校。" }
+    ]},
+    { "id": "can", "title": "我会…", "frame": "I can ___", "s": [
+      { "text": "I can jump.", "zh": "我会跳。" },
+      { "text": "I can swim fast.", "zh": "我能游得很快。" },
+      { "text": "I can draw a cat.", "zh": "我会画猫。" },
+      { "text": "I can ride a bike.", "zh": "我会骑自行车。" },
+      { "text": "I can count to fifty.", "zh": "我能数到五十。" },
+      { "text": "I can sing a song.", "zh": "我会唱歌。" }
+    ]},
+    { "id": "thisis", "title": "这是…", "frame": "This is my ___", "s": [
+      { "text": "This is my mom.", "zh": "这是我妈妈。" },
+      { "text": "This is my schoolbag.", "zh": "这是我的书包。" },
+      { "text": "This is my best friend.", "zh": "这是我最好的朋友。" },
+      { "text": "This is my classroom.", "zh": "这是我的教室。" },
+      { "text": "This is my favorite book.", "zh": "这是我最喜欢的书。" },
+      { "text": "This is my little dog.", "zh": "这是我的小狗。" }
+    ]},
+    { "id": "canyou", "title": "你能…吗", "frame": "Can you ___? — Yes, I can. / No, I can't.", "s": [
+      { "text": "Can you swim?", "zh": "你会游泳吗？" },
+      { "text": "Yes, I can!", "zh": "是的，我会！" },
+      { "text": "Can you fly?", "zh": "你会飞吗？" },
+      { "text": "No, I can't.", "zh": "不，我不会。" },
+      { "text": "Can you help me?", "zh": "你能帮帮我吗？" },
+      { "text": "Can we play now?", "zh": "我们现在能玩吗？" }
+    ]},
+    { "id": "where", "title": "在哪里", "frame": "Where is ___? — It's on / under / in ___", "s": [
+      { "text": "Where is my pencil?", "zh": "我的铅笔在哪里？" },
+      { "text": "It's on the desk.", "zh": "它在桌子上。" },
+      { "text": "Where is the cat?", "zh": "猫在哪里？" },
+      { "text": "It's under the chair.", "zh": "它在椅子下面。" },
+      { "text": "Where is Mom?", "zh": "妈妈在哪里？" },
+      { "text": "She's in the kitchen.", "zh": "她在厨房里。" }
+    ]},
+    { "id": "have", "title": "我有…", "frame": "I have ___", "s": [
+      { "text": "I have a brother.", "zh": "我有一个哥哥。" },
+      { "text": "I have two big eyes.", "zh": "我有两只大眼睛。" },
+      { "text": "I have a new kite.", "zh": "我有一个新风筝。" },
+      { "text": "I have many toys.", "zh": "我有很多玩具。" },
+      { "text": "I have an orange.", "zh": "我有一个橙子。" },
+      { "text": "I have a happy family.", "zh": "我有一个幸福的家。" }
+    ]},
+    { "id": "doyoulike", "title": "你喜欢…吗", "frame": "Do you like ___? — Yes, I do. / No, I don't.", "s": [
+      { "text": "Do you like apples?", "zh": "你喜欢苹果吗？" },
+      { "text": "Yes, I do.", "zh": "是的，喜欢。" },
+      { "text": "Do you like dogs?", "zh": "你喜欢狗吗？" },
+      { "text": "No, I don't.", "zh": "不，不喜欢。" },
+      { "text": "What do you like?", "zh": "你喜欢什么？" },
+      { "text": "I like bananas.", "zh": "我喜欢香蕉。" }
+    ]},
+    { "id": "wearing", "title": "穿着与样子", "frame": "I'm wearing ___ / He is ___", "s": [
+      { "text": "I'm wearing a red coat.", "zh": "我穿着一件红外套。" },
+      { "text": "She is wearing a hat.", "zh": "她戴着一顶帽子。" },
+      { "text": "He is tall.", "zh": "他很高。" },
+      { "text": "My hair is short.", "zh": "我的头发是短的。" },
+      { "text": "I have big eyes.", "zh": "我有一双大眼睛。" },
+      { "text": "The sky is blue today.", "zh": "今天天空是蓝色的。" }
+    ]}
+  ]
+}

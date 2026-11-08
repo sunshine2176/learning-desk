@@ -1,0 +1,3088 @@
+{
+ "note": "教材词 239 个 + 变调/轻声/多音字专项。标音按《现代汉语词典》，「一、不」变调按规则计算（拼音库在这一项上不可靠）。",
+ "items": [
+  {
+   "w": "妈妈",
+   "t3": "ma1 ma5",
+   "cats": [
+    "light"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "孩子",
+   "t3": "hai2 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u1",
+   "l": "1",
+   "extra": 1
+  },
+  {
+   "w": "什么",
+   "t3": "shen2 me5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "身子",
+   "t3": "shen1 zi5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "他们",
+   "t3": "ta1 men5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "看见",
+   "t3": "kan4 jian4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "我们",
+   "t3": "wo3 men5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "哪里",
+   "t3": "na3 li3",
+   "cats": [],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "那边",
+   "t3": "na4 bian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "雪白",
+   "t3": "xue3 bai2",
+   "cats": [],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "过去",
+   "t3": "guo4 qu4",
+   "cats": [],
+   "u": "u1",
+   "l": "1"
+  },
+  {
+   "w": "太阳",
+   "t3": "tai4 yang2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "天空",
+   "t3": "tian1 kong1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "一起",
+   "t3": "yi4 qi3",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u1",
+   "l": "2",
+   "sy": 0,
+   "rt": 4,
+   "extra": 1,
+   "d": [
+    "yi1 qi3",
+    "yi2 qi3",
+    "yi4 qi1"
+   ]
+  },
+  {
+   "w": "冬天",
+   "t3": "dong1 tian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "花朵",
+   "t3": "hua1 duo3",
+   "cats": [],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "池子",
+   "t3": "chi2 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "江河",
+   "t3": "jiang1 he2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "海洋",
+   "t3": "hai3 yang2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "许多",
+   "t3": "xu3 duo1",
+   "cats": [],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "田地",
+   "t3": "tian2 di4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "工作",
+   "t3": "gong1 zuo4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "办法",
+   "t3": "ban4 fa3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "你们",
+   "t3": "ni3 men5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "2"
+  },
+  {
+   "w": "如果",
+   "t3": "ru2 guo3",
+   "cats": [],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "已经",
+   "t3": "yi3 jing1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "长大",
+   "t3": "zhang3 da4",
+   "cats": [
+    "flat",
+    "nasal",
+    "poly"
+   ],
+   "u": "u1",
+   "l": "3",
+   "extra": 1,
+   "d": [
+    "chang2 da4",
+    "zhang4 da4",
+    "chang3 da4"
+   ]
+  },
+  {
+   "w": "告别",
+   "t3": "gao4 bie2",
+   "cats": [],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "四海为家",
+   "t3": "si4 hai3 wei2 jia1",
+   "cats": [
+    "flat"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "自己",
+   "t3": "zi4 ji3",
+   "cats": [
+    "flat"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "出发",
+   "t3": "chu1 fa1",
+   "cats": [
+    "flat"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "动物",
+   "t3": "dong4 wu4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "胆子",
+   "t3": "dan3 zi5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "肚子",
+   "t3": "du4 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "那里",
+   "t3": "na4 li3",
+   "cats": [],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "知识",
+   "t3": "zhi1 shi2",
+   "cats": [
+    "flat"
+   ],
+   "u": "u1",
+   "l": "3"
+  },
+  {
+   "w": "花园",
+   "t3": "hua1 yuan2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "1"
+  },
+  {
+   "w": "飞鸟",
+   "t3": "fei1 niao3",
+   "cats": [],
+   "u": "u2",
+   "l": "1"
+  },
+  {
+   "w": "红领巾",
+   "t3": "hong2 ling3 jin1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "1"
+  },
+  {
+   "w": "欢笑",
+   "t3": "huan1 xiao4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "1"
+  },
+  {
+   "w": "杨树",
+   "t3": "yang2 shu4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "2"
+  },
+  {
+   "w": "树叶",
+   "t3": "shu4 ye4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u2",
+   "l": "2"
+  },
+  {
+   "w": "松柏",
+   "t3": "song1 bai3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "2"
+  },
+  {
+   "w": "化石",
+   "t3": "hua4 shi2",
+   "cats": [
+    "flat"
+   ],
+   "u": "u2",
+   "l": "2"
+  },
+  {
+   "w": "开花",
+   "t3": "kai1 hua1",
+   "cats": [],
+   "u": "u2",
+   "l": "2"
+  },
+  {
+   "w": "拍手",
+   "t3": "pai1 shou3",
+   "cats": [
+    "flat"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "世界",
+   "t3": "shi4 jie4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "云彩",
+   "t3": "yun2 cai3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "丛林",
+   "t3": "cong2 lin2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "竹林",
+   "t3": "zhu2 lin2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "朋友",
+   "t3": "peng2 you5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "保护",
+   "t3": "bao3 hu4",
+   "cats": [],
+   "u": "u2",
+   "l": "3"
+  },
+  {
+   "w": "四季",
+   "t3": "si4 ji4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "春风",
+   "t3": "chun1 feng1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "农事",
+   "t3": "nong2 shi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "月光",
+   "t3": "yue4 guang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "身体",
+   "t3": "shen1 ti3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "辛苦",
+   "t3": "xin1 ku3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "心里",
+   "t3": "xin1 li3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "大家",
+   "t3": "da4 jia1",
+   "cats": [],
+   "u": "u2",
+   "l": "4"
+  },
+  {
+   "w": "天上",
+   "t3": "tian1 shang4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "美丽",
+   "t3": "mei3 li4",
+   "cats": [],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "爸爸",
+   "t3": "ba4 ba5",
+   "cats": [
+    "light"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "下来",
+   "t3": "xia4 lai2",
+   "cats": [],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "不用",
+   "t3": "bu2 yong4",
+   "cats": [
+    "nasal",
+    "sandhi"
+   ],
+   "u": "u3",
+   "l": "4",
+   "sy": 0,
+   "rt": 2,
+   "extra": 1,
+   "d": [
+    "bu4 yong4",
+    "bu1 yong4",
+    "bu2 yong1"
+   ]
+  },
+  {
+   "w": "高兴",
+   "t3": "gao1 xing4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "哥哥",
+   "t3": "ge1 ge5",
+   "cats": [
+    "light"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "秋千",
+   "t3": "qiu1 qian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "彩云",
+   "t3": "cai3 yun2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "4"
+  },
+  {
+   "w": "宝贝",
+   "t3": "bao3 bei4",
+   "cats": [],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "干活",
+   "t3": "gan4 huo2",
+   "cats": [
+    "nasal",
+    "poly"
+   ],
+   "u": "u3",
+   "l": "5",
+   "extra": 1,
+   "d": [
+    "gan1 huo2",
+    "gan4 huo4",
+    "gan1 huo4"
+   ]
+  },
+  {
+   "w": "回来",
+   "t3": "hui2 lai2",
+   "cats": [],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "一些",
+   "t3": "yi4 xie1",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u3",
+   "l": "5",
+   "sy": 0,
+   "rt": 4
+  },
+  {
+   "w": "天气",
+   "t3": "tian1 qi4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "欢快",
+   "t3": "huan1 kuai4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "它们",
+   "t3": "ta1 men5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "告诉",
+   "t3": "gao4 su5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "名字",
+   "t3": "ming2 zi5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "出门",
+   "t3": "chu1 men2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "5"
+  },
+  {
+   "w": "星星",
+   "t3": "xing1 xing5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "晚上",
+   "t3": "wan3 shang5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "无数",
+   "t3": "wu2 shu4",
+   "cats": [
+    "flat",
+    "poly"
+   ],
+   "u": "u3",
+   "l": "6",
+   "extra": 1,
+   "d": [
+    "wu2 shu3",
+    "wu1 shu4",
+    "wu2 shu2"
+   ]
+  },
+  {
+   "w": "奶奶",
+   "t3": "nai3 nai5",
+   "cats": [
+    "light"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "中间",
+   "t3": "zhong1 jian1",
+   "cats": [
+    "flat",
+    "nasal",
+    "poly"
+   ],
+   "u": "u3",
+   "l": "6",
+   "extra": 1,
+   "d": [
+    "zhong4 jian1",
+    "zhong1 jian4",
+    "zhong4 jian4"
+   ]
+  },
+  {
+   "w": "总是",
+   "t3": "zong3 shi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "爷爷",
+   "t3": "ye2 ye5",
+   "cats": [
+    "light"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "北边",
+   "t3": "bei3 bian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "勺子",
+   "t3": "shao2 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "转动",
+   "t3": "zhuan4 dong4",
+   "cats": [
+    "flat",
+    "nasal",
+    "poly"
+   ],
+   "u": "u3",
+   "l": "6",
+   "extra": 1,
+   "d": [
+    "zhuan3 dong4",
+    "zhuan4 dong1",
+    "zhuan3 dong1"
+   ]
+  },
+  {
+   "w": "这个",
+   "t3": "zhe4 ge5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "后来",
+   "t3": "hou4 lai2",
+   "cats": [],
+   "u": "u3",
+   "l": "6"
+  },
+  {
+   "w": "那些",
+   "t3": "na4 xie1",
+   "cats": [],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "山顶",
+   "t3": "shan1 ding3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "山头",
+   "t3": "shan1 tou2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "云海",
+   "t3": "yun2 hai3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "仙人",
+   "t3": "xian1 ren2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "前方",
+   "t3": "qian2 fang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "仙女",
+   "t3": "xian1 nv3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "8"
+  },
+  {
+   "w": "山区",
+   "t3": "shan1 qu1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "群山",
+   "t3": "qun2 shan1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "树木",
+   "t3": "shu4 mu4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "灯光",
+   "t3": "deng1 guang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "中午",
+   "t3": "zhong1 wu3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "眼前",
+   "t3": "yan3 qian2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "细雨",
+   "t3": "xi4 yu3",
+   "cats": [],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "风光",
+   "t3": "feng1 guang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "中外",
+   "t3": "zhong1 wai4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "9"
+  },
+  {
+   "w": "地方",
+   "t3": "di4 fang5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "水果",
+   "t3": "shui3 guo3",
+   "cats": [
+    "flat",
+    "sandhi"
+   ],
+   "u": "u4",
+   "l": "10",
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "月份",
+   "t3": "yue4 fen4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "枝叶",
+   "t3": "zhi1 ye4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "五光十色",
+   "t3": "wu3 guang1 shi2 se4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "好客",
+   "t3": "hao4 ke4",
+   "cats": [
+    "poly"
+   ],
+   "u": "u4",
+   "l": "10",
+   "extra": 1,
+   "d": [
+    "hao3 ke4",
+    "hao4 ke3",
+    "hao3 ke3"
+   ]
+  },
+  {
+   "w": "老乡",
+   "t3": "lao3 xiang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "有的",
+   "t3": "you3 de5",
+   "cats": [
+    "light"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "城市",
+   "t3": "cheng2 shi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "空气",
+   "t3": "kong1 qi4",
+   "cats": [
+    "nasal",
+    "poly"
+   ],
+   "u": "u4",
+   "l": "10",
+   "extra": 1,
+   "d": [
+    "kong4 qi4",
+    "kong1 qi1",
+    "kong4 qi1"
+   ]
+  },
+  {
+   "w": "水分",
+   "t3": "shui3 fen4",
+   "cats": [
+    "flat",
+    "nasal",
+    "poly"
+   ],
+   "u": "u4",
+   "l": "10",
+   "extra": 1,
+   "d": [
+    "shui3 fen1",
+    "shui4 fen4",
+    "shui3 fen5"
+   ]
+  },
+  {
+   "w": "这里",
+   "t3": "zhe4 li3",
+   "cats": [
+    "flat"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "味道",
+   "t3": "wei4 dao4",
+   "cats": [],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "有名",
+   "t3": "you3 ming2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u4",
+   "l": "10"
+  },
+  {
+   "w": "坐井观天",
+   "t3": "zuo4 jing3 guan1 tian1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "哪儿",
+   "t3": "nar3",
+   "cats": [
+    "erhua"
+   ],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "回答",
+   "t3": "hui2 da2",
+   "cats": [],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "大话",
+   "t3": "da4 hua4",
+   "cats": [],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "不过",
+   "t3": "bu2 guo4",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u5",
+   "l": "11",
+   "sy": 0,
+   "rt": 2,
+   "extra": 1,
+   "d": [
+    "bu4 guo4",
+    "bu1 guo4",
+    "bu2 guo1"
+   ]
+  },
+  {
+   "w": "那么",
+   "t3": "na4 me5",
+   "cats": [
+    "light"
+   ],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "抬头",
+   "t3": "tai2 tou2",
+   "cats": [],
+   "u": "u5",
+   "l": "11"
+  },
+  {
+   "w": "当作",
+   "t3": "dang4 zuo4",
+   "cats": [
+    "flat",
+    "nasal",
+    "poly"
+   ],
+   "u": "u5",
+   "l": "12",
+   "extra": 1,
+   "d": [
+    "dang1 zuo4",
+    "dang4 zuo1",
+    "dang1 zuo1"
+   ]
+  },
+  {
+   "w": "前面",
+   "t3": "qian2 mian4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "面对面",
+   "t3": "mian4 dui4 mian4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "出去",
+   "t3": "chu1 qu4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "过冬",
+   "t3": "guo4 dong1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "知道",
+   "t3": "zhi1 dao4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "赶快",
+   "t3": "gan3 kuai4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "正好",
+   "t3": "zheng4 hao3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "明天",
+   "t3": "ming2 tian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "清早",
+   "t3": "qing1 zao3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "好像",
+   "t3": "hao3 xiang4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "一样",
+   "t3": "yi2 yang4",
+   "cats": [
+    "nasal",
+    "sandhi"
+   ],
+   "u": "u5",
+   "l": "12",
+   "sy": 0,
+   "rt": 2,
+   "extra": 1,
+   "d": [
+    "yi1 yang4",
+    "yi4 yang4",
+    "yi2 yang2"
+   ]
+  },
+  {
+   "w": "天亮",
+   "t3": "tian1 liang4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "出来",
+   "t3": "chu1 lai2",
+   "cats": [
+    "flat"
+   ],
+   "u": "u5",
+   "l": "12"
+  },
+  {
+   "w": "从前",
+   "t3": "cong2 qian2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "以后",
+   "t3": "yi3 hou4",
+   "cats": [],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "多么",
+   "t3": "duo1 me5",
+   "cats": [
+    "light"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "那个",
+   "t3": "na4 ge5",
+   "cats": [
+    "light"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "叶子",
+   "t3": "ye4 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "虫子",
+   "t3": "chong2 zi5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "自言自语",
+   "t3": "zi4 yan2 zi4 yu3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "邻居",
+   "t3": "lin2 ju1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "奇怪",
+   "t3": "qi2 guai4",
+   "cats": [],
+   "u": "u5",
+   "l": "13"
+  },
+  {
+   "w": "年代",
+   "t3": "nian2 dai4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "更加",
+   "t3": "geng4 jia1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "明亮",
+   "t3": "ming2 liang4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "星星之火",
+   "t3": "xing1 xing1 zhi1 huo3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "中国",
+   "t3": "zhong1 guo2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "胜利",
+   "t3": "sheng4 li4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "道路",
+   "t3": "dao4 lu4",
+   "cats": [],
+   "u": "u6",
+   "l": "14"
+  },
+  {
+   "w": "同志",
+   "t3": "tong2 zhi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "红军",
+   "t3": "hong2 jun1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "敌人",
+   "t3": "di2 ren2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "生产",
+   "t3": "sheng1 chan3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "常常",
+   "t3": "chang2 chang2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "来回",
+   "t3": "lai2 hui2",
+   "cats": [],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "非常",
+   "t3": "fei1 chang2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "战士",
+   "t3": "zhan4 shi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "一块儿",
+   "t3": "yi2 kuair4",
+   "cats": [
+    "erhua",
+    "sandhi"
+   ],
+   "u": "u6",
+   "l": "15",
+   "sy": 0,
+   "rt": 2
+  },
+  {
+   "w": "白天",
+   "t3": "bai2 tian1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "15"
+  },
+  {
+   "w": "难忘",
+   "t3": "nan2 wang4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "火红",
+   "t3": "huo3 hong2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "人民",
+   "t3": "ren2 min2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "因为",
+   "t3": "yin1 wei4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "总理",
+   "t3": "zong3 li3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "人们",
+   "t3": "ren2 men5",
+   "cats": [
+    "light",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "四面八方",
+   "t3": "si4 mian4 ba1 fang1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "为了",
+   "t3": "wei4 le5",
+   "cats": [
+    "light"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "人群",
+   "t3": "ren2 qun2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "欢乐",
+   "t3": "huan1 le4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "开心",
+   "t3": "kai1 xin1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "16"
+  },
+  {
+   "w": "由于",
+   "t3": "you2 yu2",
+   "cats": [],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "年轻",
+   "t3": "nian2 qing1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "共产党员",
+   "t3": "gong4 chan3 dang3 yuan2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "共产党",
+   "t3": "gong4 chan3 dang3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "现在",
+   "t3": "xian4 zai4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "一点儿",
+   "t3": "yi4 dianr3",
+   "cats": [
+    "erhua",
+    "sandhi"
+   ],
+   "u": "u6",
+   "l": "17",
+   "sy": 0,
+   "rt": 4
+  },
+  {
+   "w": "消息",
+   "t3": "xiao1 xi1",
+   "cats": [],
+   "u": "u6",
+   "l": "17"
+  },
+  {
+   "w": "于是",
+   "t3": "yu2 shi4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "无论",
+   "t3": "wu2 lun4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "船只",
+   "t3": "chuan2 zhi1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "同时",
+   "t3": "tong2 shi2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "行人",
+   "t3": "xing2 ren2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "一切",
+   "t3": "yi2 qie4",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u7",
+   "l": "19",
+   "sy": 0,
+   "rt": 2
+  },
+  {
+   "w": "上空",
+   "t3": "shang4 kong1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "看来",
+   "t3": "kan4 lai2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "不久",
+   "t3": "bu4 jiu3",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u7",
+   "l": "19",
+   "sy": 0,
+   "rt": 4
+  },
+  {
+   "w": "路上",
+   "t3": "lu4 shang4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "出现",
+   "t3": "chu1 xian4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "散步",
+   "t3": "san4 bu4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "消失",
+   "t3": "xiao1 shi1",
+   "cats": [
+    "flat"
+   ],
+   "u": "u7",
+   "l": "19"
+  },
+  {
+   "w": "空地",
+   "t3": "kong4 di4",
+   "cats": [
+    "nasal",
+    "poly"
+   ],
+   "u": "u7",
+   "l": "20",
+   "extra": 1,
+   "d": [
+    "kong1 di4",
+    "kong4 di1",
+    "kong1 di1"
+   ]
+  },
+  {
+   "w": "伙伴",
+   "t3": "huo3 ban4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "歌唱",
+   "t3": "ge1 chang4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "回家",
+   "t3": "hui2 jia1",
+   "cats": [],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "一会儿",
+   "t3": "yi2 huir4",
+   "cats": [
+    "erhua",
+    "sandhi"
+   ],
+   "u": "u7",
+   "l": "20",
+   "sy": 0,
+   "rt": 2
+  },
+  {
+   "w": "着火",
+   "t3": "zhao2 huo3",
+   "cats": [
+    "flat",
+    "poly"
+   ],
+   "u": "u7",
+   "l": "20",
+   "extra": 1,
+   "d": [
+    "zhe5 huo3",
+    "zhao1 huo3",
+    "zhao2 huo1"
+   ]
+  },
+  {
+   "w": "火星",
+   "t3": "huo3 xing1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "一边",
+   "t3": "yi4 bian1",
+   "cats": [
+    "nasal",
+    "sandhi"
+   ],
+   "u": "u7",
+   "l": "20",
+   "sy": 0,
+   "rt": 4,
+   "extra": 1,
+   "d": [
+    "yi1 bian1",
+    "yi2 bian1",
+    "yi4 bian4"
+   ]
+  },
+  {
+   "w": "连忙",
+   "t3": "lian2 mang2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "树林",
+   "t3": "shu4 lin2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "水汽",
+   "t3": "shui3 qi4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "白云",
+   "t3": "bai2 yun2",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u7",
+   "l": "20"
+  },
+  {
+   "w": "果子",
+   "t3": "guo3 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "木工",
+   "t3": "mu4 gong1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "身边",
+   "t3": "shen1 bian1",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "仔细",
+   "t3": "zi3 xi4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "能干",
+   "t3": "neng2 gan4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "椅子",
+   "t3": "yi3 zi5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "怎么",
+   "t3": "zen3 me5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "自信",
+   "t3": "zi4 xin4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "从来",
+   "t3": "cong2 lai2",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "这么",
+   "t3": "zhe4 me5",
+   "cats": [
+    "flat",
+    "light"
+   ],
+   "u": "u8",
+   "l": "21"
+  },
+  {
+   "w": "上面",
+   "t3": "shang4 mian4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "22"
+  },
+  {
+   "w": "快乐",
+   "t3": "kuai4 le4",
+   "cats": [
+    "poly"
+   ],
+   "u": "u8",
+   "l": "22",
+   "extra": 1,
+   "d": [
+    "kuai4 yue4",
+    "kuai1 le4",
+    "kuai4 le1"
+   ]
+  },
+  {
+   "w": "可是",
+   "t3": "ke3 shi4",
+   "cats": [
+    "flat"
+   ],
+   "u": "u8",
+   "l": "22"
+  },
+  {
+   "w": "难过",
+   "t3": "nan2 guo4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "22"
+  },
+  {
+   "w": "但是",
+   "t3": "dan4 shi4",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "22"
+  },
+  {
+   "w": "和好",
+   "t3": "he2 hao3",
+   "cats": [],
+   "u": "u8",
+   "l": "22"
+  },
+  {
+   "w": "眼泪",
+   "t3": "yan3 lei4",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "水花",
+   "t3": "shui3 hua1",
+   "cats": [
+    "flat"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "青草",
+   "t3": "qing1 cao3",
+   "cats": [
+    "flat",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "游戏",
+   "t3": "you2 xi4",
+   "cats": [],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "只有",
+   "t3": "zhi3 you3",
+   "cats": [
+    "flat",
+    "poly"
+   ],
+   "u": "u8",
+   "l": "23",
+   "extra": 1,
+   "d": [
+    "zhi1 you3",
+    "zhi3 you4",
+    "zhi4 you3"
+   ]
+  },
+  {
+   "w": "可爱",
+   "t3": "ke3 ai4",
+   "cats": [],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "可以",
+   "t3": "ke3 yi3",
+   "cats": [
+    "sandhi"
+   ],
+   "u": "u8",
+   "l": "23",
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "多少",
+   "t3": "duo1 shao3",
+   "cats": [
+    "flat"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "咱们",
+   "t3": "zan2 men5",
+   "cats": [
+    "flat",
+    "light",
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "田野",
+   "t3": "tian2 ye3",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "大地",
+   "t3": "da4 di4",
+   "cats": [],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "远方",
+   "t3": "yuan3 fang1",
+   "cats": [
+    "nasal"
+   ],
+   "u": "u8",
+   "l": "23"
+  },
+  {
+   "w": "一个",
+   "t3": "yi2 ge4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "yi1 ge4",
+    "yi4 ge4",
+    "yi3 ge4"
+   ]
+  },
+  {
+   "w": "一次",
+   "t3": "yi2 ci4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "yi1 ci4",
+    "yi4 ci4",
+    "yi2 ci2"
+   ]
+  },
+  {
+   "w": "一定",
+   "t3": "yi2 ding4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "yi1 ding4",
+    "yi4 ding4",
+    "yi2 ding2"
+   ]
+  },
+  {
+   "w": "一半",
+   "t3": "yi2 ban4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "yi1 ban4",
+    "yi4 ban4",
+    "yi2 ban2"
+   ]
+  },
+  {
+   "w": "一共",
+   "t3": "yi2 gong4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "yi1 gong4",
+    "yi4 gong4",
+    "yi2 gong1"
+   ]
+  },
+  {
+   "w": "一天",
+   "t3": "yi4 tian1",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "yi1 tian1",
+    "yi2 tian1",
+    "yi4 tian4"
+   ]
+  },
+  {
+   "w": "一年",
+   "t3": "yi4 nian2",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "yi1 nian2",
+    "yi2 nian2",
+    "yi4 nian1"
+   ]
+  },
+  {
+   "w": "一点",
+   "t3": "yi4 dian3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "yi1 dian3",
+    "yi2 dian3",
+    "yi4 dian1"
+   ]
+  },
+  {
+   "w": "一直",
+   "t3": "yi4 zhi2",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "yi1 zhi2",
+    "yi2 zhi2",
+    "yi4 zhi1"
+   ]
+  },
+  {
+   "w": "第一",
+   "t3": "di4 yi1",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 1,
+   "rt": 1,
+   "d": [
+    "di4 yi2",
+    "di4 yi4",
+    "di1 yi1"
+   ]
+  },
+  {
+   "w": "十一",
+   "t3": "shi2 yi1",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 1,
+   "rt": 1,
+   "d": [
+    "shi2 yi2",
+    "shi2 yi4",
+    "shi1 yi1"
+   ]
+  },
+  {
+   "w": "不是",
+   "t3": "bu2 shi4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "bu4 shi4",
+    "bu1 shi4",
+    "bu2 shi1"
+   ]
+  },
+  {
+   "w": "不要",
+   "t3": "bu2 yao4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "bu4 yao4",
+    "bu1 yao4",
+    "bu2 yao1"
+   ]
+  },
+  {
+   "w": "不会",
+   "t3": "bu2 hui4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "bu4 hui4",
+    "bu1 hui4",
+    "bu2 hui1"
+   ]
+  },
+  {
+   "w": "不对",
+   "t3": "bu2 dui4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "bu4 dui4",
+    "bu1 dui4",
+    "bu2 dui1"
+   ]
+  },
+  {
+   "w": "不错",
+   "t3": "bu2 cuo4",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "d": [
+    "bu4 cuo4",
+    "bu1 cuo4",
+    "bu2 cuo1"
+   ]
+  },
+  {
+   "w": "不能",
+   "t3": "bu4 neng2",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "bu2 neng2",
+    "bu1 neng2",
+    "bu4 neng1"
+   ]
+  },
+  {
+   "w": "不好",
+   "t3": "bu4 hao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "bu2 hao3",
+    "bu1 hao3",
+    "bu4 hao1"
+   ]
+  },
+  {
+   "w": "不行",
+   "t3": "bu4 xing2",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 4,
+   "d": [
+    "bu2 xing2",
+    "bu1 xing2",
+    "bu4 xing1"
+   ]
+  },
+  {
+   "w": "你好",
+   "t3": "ni3 hao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "小鸟",
+   "t3": "xiao3 niao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "雨伞",
+   "t3": "yu3 san3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "老虎",
+   "t3": "lao3 hu3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "蚂蚁",
+   "t3": "ma3 yi3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "粉笔",
+   "t3": "fen3 bi3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "表演",
+   "t3": "biao3 yan3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "洗澡",
+   "t3": "xi3 zao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "勇敢",
+   "t3": "yong3 gan3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "想法",
+   "t3": "xiang3 fa3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "手表",
+   "t3": "shou3 biao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "管理",
+   "t3": "guan3 li3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "只好",
+   "t3": "zhi3 hao3",
+   "cats": [
+    "sandhi"
+   ],
+   "extra": 1,
+   "sy": 0,
+   "rt": 2,
+   "ro": 1
+  },
+  {
+   "w": "石头",
+   "t3": "shi2 tou5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "尾巴",
+   "t3": "wei3 ba5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "眼睛",
+   "t3": "yan3 jing5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "事情",
+   "t3": "shi4 qing5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "漂亮",
+   "t3": "piao4 liang5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "明白",
+   "t3": "ming2 bai5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "舒服",
+   "t3": "shu1 fu5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "衣裳",
+   "t3": "yi1 shang5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "脑袋",
+   "t3": "nao3 dai5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "喜欢",
+   "t3": "xi3 huan5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "休息",
+   "t3": "xiu1 xi5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "照顾",
+   "t3": "zhao4 gu5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "认识",
+   "t3": "ren4 shi5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "姐姐",
+   "t3": "jie3 jie5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "弟弟",
+   "t3": "di4 di5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "妹妹",
+   "t3": "mei4 mei5",
+   "cats": [
+    "light"
+   ],
+   "extra": 1
+  },
+  {
+   "w": "长短",
+   "t3": "chang2 duan3",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "zhang3 duan3",
+    "chang3 duan3",
+    "zhang4 duan3"
+   ]
+  },
+  {
+   "w": "音乐",
+   "t3": "yin1 yue4",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "yin1 le4",
+    "ying1 yue4",
+    "yin1 yue1"
+   ]
+  },
+  {
+   "w": "觉得",
+   "t3": "jue2 de5",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "jiao4 de5",
+    "jue4 de5",
+    "jue2 de2"
+   ]
+  },
+  {
+   "w": "睡觉",
+   "t3": "shui4 jiao4",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "shui4 jue2",
+    "shui4 jiao1",
+    "shui3 jiao4"
+   ]
+  },
+  {
+   "w": "种子",
+   "t3": "zhong3 zi5",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "zhong4 zi5",
+    "chong2 zi5",
+    "zhong1 zi5"
+   ]
+  },
+  {
+   "w": "种花",
+   "t3": "zhong4 hua1",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "zhong3 hua1",
+    "chong2 hua1",
+    "zhong4 hua4"
+   ]
+  },
+  {
+   "w": "头发",
+   "t3": "tou2 fa5",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "tou2 fa1",
+    "tou1 fa5",
+    "tou2 fa4"
+   ]
+  },
+  {
+   "w": "发现",
+   "t3": "fa1 xian4",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "fa4 xian4",
+    "fa1 xian2",
+    "fa3 xian4"
+   ]
+  },
+  {
+   "w": "看着",
+   "t3": "kan4 zhe5",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "kan4 zhao2",
+    "kan4 zhuo2",
+    "kan1 zhe5"
+   ]
+  },
+  {
+   "w": "一只",
+   "t3": "yi4 zhi1",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "yi4 zhi3",
+    "yi1 zhi1",
+    "yi2 zhi1"
+   ]
+  },
+  {
+   "w": "数一数",
+   "t3": "shu3 yi1 shu3",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "shu4 yi1 shu4",
+    "shu3 yi2 shu3",
+    "shu4 yi2 shu4"
+   ]
+  },
+  {
+   "w": "干净",
+   "t3": "gan1 jing4",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "gan4 jing4",
+    "gan1 jing1",
+    "gan4 jing1"
+   ]
+  },
+  {
+   "w": "分开",
+   "t3": "fen1 kai1",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "fen4 kai1",
+    "fen1 kai4",
+    "fen4 kai4"
+   ]
+  },
+  {
+   "w": "教室",
+   "t3": "jiao4 shi4",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "jiao1 shi4",
+    "jiao4 shi3",
+    "jiao1 shi3"
+   ]
+  },
+  {
+   "w": "转身",
+   "t3": "zhuan3 shen1",
+   "cats": [
+    "poly"
+   ],
+   "extra": 1,
+   "d": [
+    "zhuan4 shen1",
+    "zhuan3 shen4",
+    "zhuan4 shen4"
+   ]
+  }
+ ]
+}
